@@ -46,7 +46,6 @@ A **BACKEND/WEB/MOBILE** ***Enthusiast*** 🚀.
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=samuelaj1&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Samuel's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelaj1&count_private=true&theme=radical" alt="Samuel-Script" />
 
 <!--
